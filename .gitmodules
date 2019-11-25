@@ -1,0 +1,4 @@
+[submodule "warehouse_req"]
+	path = warehouse_req
+	url = git@github.com:mailynC/warehouse_req.git
+	branch = master
