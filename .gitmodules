@@ -37,3 +37,8 @@
 	path = prodigia_bank_extract_import
 	url = git@github.com:mailynC/prodigia_bank_extract_import.git
 	branch = 12.0
+
+[submodule "prodigia_unique_partner_vat"]
+	path = prodigia_unique_partner_vat
+	url = git@github.com:mailynC/prodigia_unique_partner_vat.git
+	branch = 12.0
