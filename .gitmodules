@@ -62,3 +62,8 @@
 	path = payment_attachment_prodigia
 	url = git@github.com:mailynC/payment_attachment_prodigia.git
 	branch = 12.0
+
+[submodule "prodigia_subproduct_costs"]
+	path = prodigia_subproduct_costs
+	url = git@github.com:mailynC/prodigia_subproduct_costs.git
+	branch = test_costeo
