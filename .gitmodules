@@ -2,3 +2,8 @@
 	path = warehouse_req
 	url = git@github.com:mailynC/warehouse_req.git
 	branch = master
+
+[submodule "prodigia_xml_to_invoice"]
+	path = prodigia_xml_to_invoice
+	url = git@github.com:mailynC/prodigia_xml_to_invoice.git
+	branch = 12.0
