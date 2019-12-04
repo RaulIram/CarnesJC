@@ -12,3 +12,8 @@
 	path = odoo-prodigia-facturacion
 	url = git@github.com:mailynC/odoo-prodigia-facturacion.git
 	branch = 12.0
+
+[submodule "account_aux_report"]
+	path = account_aux_report
+	url = git@github.com:mailynC/account_aux_report.git
+	branch = master
