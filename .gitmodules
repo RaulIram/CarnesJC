@@ -7,3 +7,8 @@
 	path = prodigia_xml_to_invoice
 	url = git@github.com:mailynC/prodigia_xml_to_invoice.git
 	branch = 12.0
+
+[submodule "odoo-prodigia-facturacion"]
+	path = odoo-prodigia-facturacion
+	url = git@github.com:mailynC/odoo-prodigia-facturacion.git
+	branch = 12.0
