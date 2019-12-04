@@ -52,3 +52,8 @@
 	path = kardex
 	url = git@github.com:mailynC/kardex.git
 	branch = 12.0
+
+[submodule "prodigia_out_invoice_sat_validation"]
+	path = prodigia_out_invoice_sat_validation
+	url = git@github.com:mailynC/prodigia_out_invoice_sat_validation.git
+	branch = 12.0
