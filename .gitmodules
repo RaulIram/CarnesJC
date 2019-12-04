@@ -17,3 +17,8 @@
 	path = account_aux_report
 	url = git@github.com:mailynC/account_aux_report.git
 	branch = master
+
+[submodule "prodigia_view_stock_acc_moves"]
+	path = prodigia_view_stock_acc_moves
+	url = git@github.com:mailynC/prodigia_view_stock_acc_moves.git
+	branch = 12.0
