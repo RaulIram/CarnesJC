@@ -1,0 +1,69 @@
+[submodule "warehouse_req"]
+	path = warehouse_req
+	url = git@github.com:mailynC/warehouse_req.git
+	branch = master
+
+[submodule "prodigia_xml_to_invoice"]
+	path = prodigia_xml_to_invoice
+	url = git@github.com:mailynC/prodigia_xml_to_invoice.git
+	branch = 12.0
+
+[submodule "odoo-prodigia-facturacion"]
+	path = odoo-prodigia-facturacion
+	url = git@github.com:mailynC/odoo-prodigia-facturacion.git
+	branch = 12.0
+
+[submodule "account_aux_report"]
+	path = account_aux_report
+	url = git@github.com:mailynC/account_aux_report.git
+	branch = master
+
+[submodule "prodigia_view_stock_acc_moves"]
+	path = prodigia_view_stock_acc_moves
+	url = git@github.com:mailynC/prodigia_view_stock_acc_moves.git
+	branch = 12.0
+
+[submodule "partner_credit_limit"]
+	path = partner_credit_limit
+	url = git@github.com:mailynC/partner_credit_limit.git
+	branch = 12.0
+
+[submodule "prodigia_creditnote_picking"]
+	path = prodigia_creditnote_picking
+	url = git@github.com:mailynC/prodigia_creditnote_picking.git
+	branch = master
+
+[submodule "prodigia_bank_extract_import"]
+	path = prodigia_bank_extract_import
+	url = git@github.com:mailynC/prodigia_bank_extract_import.git
+	branch = 12.0
+
+[submodule "prodigia_unique_partner_vat"]
+	path = prodigia_unique_partner_vat
+	url = git@github.com:mailynC/prodigia_unique_partner_vat.git
+	branch = 12.0
+
+[submodule "prodigia_supplier_invoice_validation"]
+	path = prodigia_supplier_invoice_validation
+	url = git@github.com:mailynC/prodigia_supplier_invoice_validation.git
+	branch = 12.0
+
+[submodule "kardex"]
+	path = kardex
+	url = git@github.com:mailynC/kardex.git
+	branch = 12.0
+
+[submodule "prodigia_out_invoice_sat_validation"]
+	path = prodigia_out_invoice_sat_validation
+	url = git@github.com:mailynC/prodigia_out_invoice_sat_validation.git
+	branch = 12.0
+
+[submodule "payment_attachment_prodigia"]
+	path = payment_attachment_prodigia
+	url = git@github.com:mailynC/payment_attachment_prodigia.git
+	branch = 12.0
+
+[submodule "prodigia_subproduct_costs"]
+	path = prodigia_subproduct_costs
+	url = git@github.com:mailynC/prodigia_subproduct_costs.git
+	branch = test_costeo
