@@ -22,3 +22,8 @@
 	path = prodigia_view_stock_acc_moves
 	url = git@github.com:mailynC/prodigia_view_stock_acc_moves.git
 	branch = 12.0
+
+[submodule "partner_credit_limit"]
+	path = partner_credit_limit
+	url = git@github.com:mailynC/partner_credit_limit.git
+	branch = 12.0
