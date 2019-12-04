@@ -47,3 +47,8 @@
 	path = prodigia_supplier_invoice_validation
 	url = git@github.com:mailynC/prodigia_supplier_invoice_validation.git
 	branch = 12.0
+
+[submodule "kardex"]
+	path = kardex
+	url = git@github.com:mailynC/kardex.git
+	branch = 12.0
