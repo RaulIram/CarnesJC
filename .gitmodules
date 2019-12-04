@@ -42,3 +42,8 @@
 	path = prodigia_unique_partner_vat
 	url = git@github.com:mailynC/prodigia_unique_partner_vat.git
 	branch = 12.0
+
+[submodule "prodigia_supplier_invoice_validation"]
+	path = prodigia_supplier_invoice_validation
+	url = git@github.com:mailynC/prodigia_supplier_invoice_validation.git
+	branch = 12.0
