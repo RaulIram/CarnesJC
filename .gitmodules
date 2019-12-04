@@ -27,3 +27,8 @@
 	path = partner_credit_limit
 	url = git@github.com:mailynC/partner_credit_limit.git
 	branch = 12.0
+
+[submodule "prodigia_creditnote_picking"]
+	path = prodigia_creditnote_picking
+	url = git@github.com:mailynC/prodigia_creditnote_picking.git
+	branch = master
