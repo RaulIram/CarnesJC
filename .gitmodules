@@ -32,3 +32,8 @@
 	path = prodigia_creditnote_picking
 	url = git@github.com:mailynC/prodigia_creditnote_picking.git
 	branch = master
+
+[submodule "prodigia_bank_extract_import"]
+	path = prodigia_bank_extract_import
+	url = git@github.com:mailynC/prodigia_bank_extract_import.git
+	branch = 12.0
